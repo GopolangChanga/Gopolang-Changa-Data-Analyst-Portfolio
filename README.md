@@ -29,7 +29,7 @@ Skilled in turning complex data into actionable insights using **Power BI**, **Q
 
 -A daily operational sales report built on the AdventureWorks dataset, designed for sales managers, category managers, and demand planners who need a quick, accurate read on daily performance. 
 -All totals and rankings have been independently validated against raw SQL queries run directly against the source tables.
--[View Project →]: https://github.com/GopolangChanga/Sales-Daily-Product-Report/blob/main/README.md
+[View Project →](https://github.com/GopolangChanga/Sales-Daily-Product-Report)
 
 
 ### 2. 
